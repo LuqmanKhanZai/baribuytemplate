@@ -13,6 +13,6 @@ jobs:
       with:
         server: ftp.baribuy.com
         username: baribuy@baribuy.com
-        password: Pakistan0314
+        password: Pakistan0314@
         server-dir : /Baribuy.com/
         
